@@ -1,0 +1,10 @@
+slack:
+  botToken: your-slack-bot-token
+
+pinecone:
+  apiKey: your-pinecone-api-key
+  environment: your-pinecone-environment
+  indexName: your-pinecone-index-name
+
+openai:
+  apiKey: your-openai-api-key
